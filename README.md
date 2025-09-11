@@ -7,7 +7,7 @@
 
 ---
 
-## 🌱 Seed Sales Analytics & Farmer Insights (Flagship Project)  
+## 🌱 Seed Sales Analytics & Farmer Insights   
 
 - Built an **interactive Tableau dashboard** analyzing seed sales performance across regions.  
 - Identified **farmer adoption trends, seasonal demand patterns, and product preferences**.  
