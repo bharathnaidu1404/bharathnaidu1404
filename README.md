@@ -26,35 +26,6 @@
 This is a simple but powerful **AI Search Agent** built using [n8n](https://n8n.io).  
 The agent uses **Google Gemini** for reasoning, **SERP API** for live web search, and a **Memory module** to maintain context between queries — allowing it to behave more like a smart assistant.
 
-## 🧠 Features
-
-- 🌐 Real-time Google search using [SERP API](https://serpapi.com/)
-- 🧠 Context retention using n8n's memory node
-- 🤖 Response generation and summarization with **Google Gemini**
-- 🪄 Modular n8n workflow — easy to extend or integrate
-- ⚡ Can be triggered via webhook or manual input
-
----
-
-## 🧰 Tech Stack
-
-- **n8n** — workflow orchestration
-- **Google Gemini API** — AI model for reasoning and responses
-- **SERP API** — fetches search results
-- **Memory Node** — retains conversation context
-- (Optional) Webhook Trigger
-
----
-
-## 🧪 How It Works
-
-1. **Input Query** → User sends a search query (manual or webhook).
-2. **Search Layer** → SERP API fetches relevant web results.
-3. **Reasoning Layer** → Gemini model summarizes and answers based on results.
-4. **Memory Layer** → Saves context to enable follow-up questions.
-5. **Output** → Returns a smart, contextual response.
-
----
 
 ## 📫 Let’s Connect  
 📧 **bharathmachupalli4@gmail.com**  
