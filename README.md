@@ -26,6 +26,7 @@
 This is a simple but powerful **AI Search Agent** built using [n8n](https://n8n.io).  
 The agent uses **Google Gemini** for reasoning, **SERP API** for live web search, and a **Memory module** to maintain context between queries — allowing it to behave more like a smart assistant.
 
+👉 [🔗https://github.com/bharathnaidu1404/n8n-search-agent]
 
 ## 📫 Let’s Connect  
 📧 **bharathmachupalli4@gmail.com**  
